@@ -1,8 +1,7 @@
 package com.example.contacts_assignment
 
-class Contact(// Generate getters and setters
+class Contact(
     var name: String,
     var phoneNumber: String,
-    var email: String,
-    var image: Int
+    var email: String
 )
